@@ -1,0 +1,30 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Add a new block",
+    "name": "LEV1",
+    "uuid": "FA008701-8DF2-4028-9D9D-63B74907C05B",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      19,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "Add a new block",
+      "type": "resources",
+      "uuid": "BFCD932E-78C6-4A59-BA24-F04385E9D5AD",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}
