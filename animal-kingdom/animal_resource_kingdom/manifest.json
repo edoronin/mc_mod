@@ -1,9 +1,9 @@
 {
   "format_version": 2,
   "header": {
-    "description": "Add new things to Minecraft",
-    "name": "LEV1",
-    "uuid": "FA008701-8DF2-4028-9D9D-63B74907C05B",
+    "description": "Add new animals to Minecraft",
+    "name": "LEV2",
+    "uuid": "E3BBE551-E27C-49C6-B04E-9107E14DC12B",
     "version": [
       1,
       0,
@@ -12,14 +12,14 @@
     "min_engine_version": [
       1,
       19,
-      0
+      50
     ]
   },
   "modules": [
     {
-      "description": "Add new things to Minecraft",
+      "description": "Add new animals to Minecraft",
       "type": "resources",
-      "uuid": "BFCD932E-78C6-4A59-BA24-F04385E9D5AD",
+      "uuid": "92968636-4CBD-47FE-9DE9-939209AF1B22",
       "version": [
         1,
         0,
