@@ -3,7 +3,7 @@
     "padding": 8,
     "resource_pack_name": "lev2",
     "texture_data": {
-        "lion_cube": {
+        "lc_face": {
             "textures": "textures/blocks/lion_cube"
         }
     },

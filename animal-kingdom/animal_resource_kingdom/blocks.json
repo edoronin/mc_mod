@@ -1,6 +1,17 @@
 {
-   "lion_cube": {
-      "sound": "glass",
-      "textures": "lion_cube"
+   "format_version": "1.19.50",
+   "lev2:lion_cube": {
+      "textures": {
+         "up": "lc_face",
+         "down": "lc_face",
+         "north": "lc_face",
+         "south": "lc_face",
+         "east": "lc_face",
+         "west": "lc_face"
+      },
+      "carried_textures": "lc_face",
+      "isotropic": true,
+      "brightness_gamma": 1,
+      "sound": "stone"
    }
 }

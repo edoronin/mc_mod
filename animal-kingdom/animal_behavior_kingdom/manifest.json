@@ -1,0 +1,40 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "This is a behavior pack used to demo components!",
+        "name": "Animal Behavior Pack",
+        "uuid": "6BF8BE50-40F7-49D1-A7DB-CA36BE5067AC",
+        "version": [
+            1,
+            0,
+            0
+        ],
+        "min_engine_version": [
+            1,
+            19,
+            50
+        ]
+    },
+    "modules": [
+        {
+            "description": "Animal Behavior Pack",
+            "type": "data",
+            "uuid": "27AFE7AA-F2F1-4A98-B796-54BBACF184B4",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ],
+    "dependencies": [
+        {
+            "uuid": "E3BBE551-E27C-49C6-B04E-9107E14DC12B",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ]
+}
