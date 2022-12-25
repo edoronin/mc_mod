@@ -1,0 +1,11 @@
+{
+    "num_mip_levels": 4,
+    "padding": 8,
+    "resource_pack_name": "lev2",
+    "texture_data": {
+        "lion_cube": {
+            "textures": "textures/blocks/lion_cube"
+        }
+    },
+    "texture_name": "atlas.terrain"
+}
